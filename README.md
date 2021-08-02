@@ -10,5 +10,7 @@ We have used Ultrasonic sensor to find the distance to collision.
 According to the distance calculated , we can define 3 different zones
 
 Zone 1: No warning
+
 Zone 2: Only visual warning (LED is blinked to get the attention of the driver)
+
 Zone 3: Both visual and audio warning (A buzzer also buzzes so that the driver get to know that their is an obstacle in front of the vehicle)
